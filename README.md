@@ -1,24 +1,43 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&height=80&lines=Hi+There!+👋;I'm+JiuGeGe520+|+九戈戈;天汪科技总负责人;Tech+Leader+&+Open+Source+Contributor" alt="Typing SVG">
+  Hi There! 👋 I'm JiuGeGe520 | 九戈戈
 </h1>
+<h3 align="center">天汪科技总负责人 · Tech Leader · 持续学习的开发者</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JiuGeGe520&label=Profile%20Views&color=4F46E5&style=flat-square&abbreviated=true" alt="Profile Views">
-  <a href="https://github.com/JiuGeGe520?tab=followers"><img src="https://img.shields.io/github/followers/JiuGeGe520?label=Followers&color=10B981&style=flat-square" alt="Followers"></a>
-  <img src="https://img.shields.io/github/contributions/JiuGeGe520/JiuGeGe520?label=Contributions&color=3B82F6&style=flat-square" alt="Contributions">
+  <!-- 纯文本+徽章组合，无图片依赖 -->
+  [![Profile Views](https://img.shields.io/badge/Profile%20Views-∞-4F46E5?style=flat-square)](https://github.com/JiuGeGe520)
+  [![Followers](https://img.shields.io/github/followers/JiuGeGe520?label=Followers&color=10B981&style=flat-square)](https://github.com/JiuGeGe520?tab=followers)
+  [![Contributions](https://img.shields.io/badge/Contributions-22-3B82F6?style=flat-square)](https://github.com/JiuGeGe520)
 </div>
 
 <br>
 
+<!-- 纯文本统计模块（替代图片统计卡片） -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiuGeGe520&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=4F46E5&border_radius=12&include_all_commits=true&count_private=true&line_height=26" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuGeGe520&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=4F46E5&border_radius=12&langs_count=8" width="48%" alt="Top Languages">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiuGeGe520&theme=dark&hide_border=true&background=0D1117&stroke=4F46E5&ring=F59E0B&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4F46E5&sideLabels=FFFFFF&dates=9CA3AF" alt="Streak Stats" width="90%">
+  <table align="center" style="border-collapse: collapse; width: 90%; background: #161B22; border-radius: 12px; overflow: hidden;">
+    <tr style="background: #0D1117;">
+      <th style="padding: 14px; text-align: center; color: #818CF8; font-size: 16px; width: 33%;">📊 GitHub Stats</th>
+      <th style="padding: 14px; text-align: center; color: #818CF8; font-size: 16px; width: 33%;">🔥 Streak</th>
+      <th style="padding: 14px; text-align: center; color: #818CF8; font-size: 16px; width: 33%;">💻 Top Languages</th>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; color: #FFFFFF; line-height: 1.8;">
+        Total Commits: 22+<br>
+        Private Repos: ✅<br>
+        Public Repos: 1+
+      </td>
+      <td style="padding: 12px; text-align: center; color: #FFFFFF; line-height: 1.8;">
+        Current Streak: 0 days<br>
+        Longest Streak: 2 days<br>
+        Active Days: 5+
+      </td>
+      <td style="padding: 12px; text-align: center; color: #FFFFFF; line-height: 1.8;">
+        JavaScript<br>
+        Python<br>
+        HTML/CSS
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -41,12 +60,12 @@
 <br>
 
 <div align="center">
-  <h3>📣 Open Source Contributions 📣</h3>
-  <div style="width:90%; background:#161B22; padding:20px; border-radius:12px; color:#9CA3AF; line-height:2.2;">
-    ✅ 向 <a href="https://github.com/anzhiyu-c/anheyu-app" style="color:#60A5FA; text-decoration:none;">anzhiyu-c/anheyu-app</a> 提交 6 个 Issues（5 个已关闭）<br>
-    ✅ 反馈核心功能 Bug（一图流视频、图标失效等）& 优化建议（打字机颜色自定义）<br>
-    ✅ 持续维护个人仓库 <a href="https://github.com/JiuGeGe520/JiuGeGe520" style="color:#60A5FA; text-decoration:none;">JiuGeGe520/JiuGeGe520</a>（2 次提交记录）<br>
-    ✅ 年度贡献 22 次，专注技术实践与开源协作
+  <h3>📖 About Me 📖</h3>
+  <div style="width:90%; background:#161B22; padding:20px; border-radius:12px; color:#9CA3AF; line-height:2;">
+    ✅ 天汪科技总负责人，深耕技术管理与实践<br>
+    ✅ 专注前端/后端技术栈，持续打磨核心能力<br>
+    ✅ 乐于交流技术思路，期待与开发者共同成长<br>
+    ✅ 立足广东，致力于技术落地与价值创造
   </div>
 </div>
 
@@ -54,7 +73,7 @@
 
 <div align="center">
   <h3>🌐 Find Me On 🌐</h3>
-  <div style="display: flex; justify-content: center; gap:20px; padding:16px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap:20px; padding:16px;">
     <a href="https://github.com/JiuGeGe520" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://jiugg.xyz/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Personal%20Site-4F46E5?style=for-the-badge&logo=globe&logoColor=white" alt="Personal Site"></a>
     <a href="https://blog.jiugg.fun/" style="text-decoration: none;"><img src="https://img.shields.io/badge/My%20Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" alt="My Blog"></a>
@@ -65,12 +84,11 @@
 
 <br>
 
+<!-- 纯文本底部，无任何图片 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JiuGeGe520/JiuGeGe520/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="border-radius:12px; width:92%;">
-</div>
-
-<br>
-
-<div align="center">
-  <p style="color:#9CA3AF; font-size:14px; letter-spacing:1px;">📍 Based in Guangdong, China | 天汪科技总负责人<br>⭐️ Made with ❤️ by JiuGeGe520 (九戈戈) ⭐️</p>
+  <hr style="width: 90%; border: 1px solid #30363D; margin: 0 auto;">
+  <p style="color:#9CA3AF; font-size:14px; letter-spacing:1px; padding: 16px 0;">
+    📍 Based in Guangdong, China | 天汪科技总负责人<br>
+    ⭐️ Made with ❤️ by JiuGeGe520 (九戈戈)
+  </p>
 </div>
